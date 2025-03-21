@@ -1,5 +1,4 @@
 import * as THREE from 'three';
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { STLLoader } from 'jsm/loaders/STLLoader.js';
 import { GLTFLoader } from 'jsm/loaders/GLTFLoader.js';
 
